@@ -70,11 +70,11 @@
 </p>
 
 ## Features:
-*     Real-time Messaging: Utilize Firebase's real-time database to enable instant messaging and updates within channels and direct messages.
-*     User Authentication: Implement Firebase Authentication to manage user logins, registrations, and secure access to channels.
+*     Dynamic User Interface
+*     Real-time Database and Storage
 *     State Management with Redux: Employ Redux to efficiently manage application-wide state, ensuring seamless data handling across the platform.
-*     Channel Creation and Management: Allow users to create, join, and manage channels for different teams or topics.
-*     Message Threads: Support threading to organize and manage discussions within channels, enhancing conversation context.
+*     User Authentication and Authorization.
+*     Search Functionality.
 *     Integration Capabilities: Implement Firebase functionalities to support third-party integrations or extensions.
 
 ## Getting Started
@@ -85,7 +85,7 @@
 ### 2. Git clone and cd into the repo folder:
 
 ```bash
-https://github.com/Carlosaj18/Slack-Clone
+https://github.com/Carlosaj18/Google-Clone
 ```
 
 ### 3. Install all dependencies
