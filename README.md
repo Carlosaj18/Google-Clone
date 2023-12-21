@@ -111,7 +111,8 @@ npm run dev
  ## Demo & Showcasing:
 
  ### :camera: Screenshots
-![262249757-78f0a6f9-efea-4b91-b8d7-558bca35a97e](https://github.com/Carlosaj18/Slack-Clone/assets/62365628/9ce1b2be-2921-4b3e-92fd-2118aa26e721)
+
+https://github.com/Carlosaj18/Google-Clone/assets/62365628/c8a9161b-d7fa-4da1-82b5-3a9f80472b61
 
 
 ## :handshake: Contact
